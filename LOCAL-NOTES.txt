@@ -1,0 +1,28 @@
+CONTROLLED CHAOS — LOCAL PORTFOLIO
+
+Open dist/index.html in a current browser. The site is buildless and works from disk.
+Alternatively, run npm run dev in this directory and visit http://127.0.0.1:4173.
+Run npm run check for JavaScript syntax checks.
+
+Interactions: cursor-reactive WebGL knot; Twist the thought changes orientation and
+material; project tiles open architecture dialogs; architecture stages reveal
+implementation details; cost slider demonstrates ReRoute policy thresholds;
+Cmd/Ctrl+K opens searchable navigation; Escape dismisses dialogs; footer motion
+control pauses animation. Reduced-motion preference is respected automatically.
+
+The source contains only the professional details supplied for this portfolio.
+The original PDF and resume image are not copied or served. No external packages,
+fonts, CDN resources, analytics, API calls, or live backend connections are used.
+The policy study and project visuals are explicitly illustrative.
+
+All files in this directory are ignored by .gitignore. Do not force-add them.
+No repository was initialized, no commit made, and nothing deployed or published.
+Before any future publication, review and explicitly approve the professional
+information in dist/index.html. Never copy the original resume into dist.
+
+Verification: JavaScript syntax and static asset/privacy checks passed. Nine
+nearby Git repositories were checked for the original PDF blob and resume-named
+history paths, with no matches. This does not establish the absence of every
+possible historical copy of personal text in unrelated repositories.
+Browser rendering and interaction QA could not be completed in the restricted
+execution environment; the local HTTP server was denied socket binding.
